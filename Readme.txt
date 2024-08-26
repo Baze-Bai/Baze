@@ -1,0 +1,2 @@
+This tool is used to delete the raws of the given xlsx file which contains None value of given column index. The result file will replace the original file.
+The command line format: process_csv file_name column_index
